@@ -5,8 +5,6 @@ theme: minima
 
 upwork_url: https://www.upwork.com/freelancers/~01c351fe04e5d1ae40
 
-header_pages:
-  - index.md
 
 exclude:
   - README.md
