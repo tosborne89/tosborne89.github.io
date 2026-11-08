@@ -3,8 +3,7 @@ description: Moving Jira and Confluence Connect apps to Forge before Connect end
 url: https://tosborne89.github.io
 theme: minima
 
-# Set once the Upwork profile exists. Every contact link on the site reads this value.
-upwork_url: UPWORK_PROFILE_URL
+upwork_url: https://www.upwork.com/freelancers/~01c351fe04e5d1ae40
 
 header_pages:
   - index.md
