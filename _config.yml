@@ -1,0 +1,14 @@
+title: Tim Osborne, Atlassian Forge migrations
+description: Moving Jira and Confluence Connect apps to Forge before Connect end of support on 31 January 2027.
+url: https://tosborne89.github.io
+theme: minima
+
+# Set once the Upwork profile exists. Every contact link on the site reads this value.
+upwork_url: UPWORK_PROFILE_URL
+
+header_pages:
+  - index.md
+
+exclude:
+  - README.md
+  - devto/
