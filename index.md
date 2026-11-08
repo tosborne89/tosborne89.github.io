@@ -35,6 +35,6 @@ I ported [Figma for Jira](https://github.com/atlassian-labs/figma-for-jira), an 
 
 ### Get in touch
 
-[Message me on Upwork]({{ site.upwork_url }}). Upwork handles the contract and payment, so you're covered either way.
+Email me at [osborne.tim89@gmail.com](mailto:osborne.tim89@gmail.com?subject=Forge%20migration), or [message me on Upwork]({{ site.upwork_url }}) if you'd rather Upwork handle the contract and payment.
 
 I don't take projects from banks, payment companies, or identity or KYC providers.

@@ -84,4 +84,4 @@ On a live Jira Cloud site, on 8 November 2026:
 
 ## If you own a Connect app
 
-If your app still shows LEGACY, I offer a free audit. You get a component map like the one above, with an honest list of what Forge can't do yet. Details are on the [offer page]({{ "/" | relative_url }}), or [message me on Upwork]({{ site.upwork_url }}).
+If your app still shows LEGACY, I offer a free audit. You get a component map like the one above, with an honest list of what Forge can't do yet. Details are on the [offer page]({{ "/" | relative_url }}), email [osborne.tim89@gmail.com](mailto:osborne.tim89@gmail.com?subject=Forge%20migration), or [message me on Upwork]({{ site.upwork_url }}).
